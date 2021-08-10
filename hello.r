@@ -1,0 +1,1 @@
+teks="selamat datang didunia R"
